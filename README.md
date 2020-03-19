@@ -1,2 +1,2 @@
 # Spring-learning-project
-My "hello world" project to learn spring framework
+My "hello world" projects to learn spring framework
